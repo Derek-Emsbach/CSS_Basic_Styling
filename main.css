@@ -44,4 +44,7 @@ p {
     height: 200px;
     width: auto;
     justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
