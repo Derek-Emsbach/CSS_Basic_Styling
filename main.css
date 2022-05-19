@@ -1,22 +1,31 @@
+body {
+    background-color: rgb(162, 175, 202)
+}
+
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 80px;
+    font-family: 'Lato', sans-serif;
+    padding: auto;
+    margin: auto;
+    font-weight: normal;
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+    background-color: none;
+    text-align: center;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    padding: auto;
+    margin: 20px;
+    font-weight: lighter;
+    color: rgb(7, 84, 10);
+    background-color: none;
+}
+
+.story-box {
+    text-align: center;
 }
 
 p {
@@ -31,7 +40,8 @@ p {
 .logo {
     background-size: cover;
     background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-color: whitesmoke;
+    height: 200px;
+    width: auto;
+    justify-content: center;
 }
